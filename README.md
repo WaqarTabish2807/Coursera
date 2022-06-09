@@ -1,6 +1,6 @@
 <h1>Coursera-HTML-CSS-and-Javascript-for-Web-Developers<h1/>
 
-This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
+<p>This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.<p/>
 
 ![image](https://user-images.githubusercontent.com/85379681/172934577-127c5033-b3ad-46d0-bc34-a0fe7e642abe.png)
 
