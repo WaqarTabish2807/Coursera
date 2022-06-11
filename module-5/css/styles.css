@@ -7,15 +7,15 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color: #eec54a;
   border-radius: 0;
   border: 0;
 }
 
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
-  width: 150px;
-  height: 150px;
+  width: 80px;
+  height: 80px;
   margin: 10px 15px 10px 0;
 }
 
